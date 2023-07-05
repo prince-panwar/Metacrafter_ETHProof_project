@@ -2,11 +2,11 @@
 
 ## Overview
 
-The myToken project provides a basic implementation of a token contract on the Ethereum blockchain. It allows users to mint and burn tokens while keeping track of token balances for different addresses.
+The Zeol Token project provides a basic implementation of a token contract on the Ethereum blockchain. It allows users to mint and burn tokens while keeping track of token balances for different addresses.
 
 ## Description
 
-The myToken project is a simple token contract written in Solidity. It includes functionalities to mint and burn tokens, along with maintaining a mapping to track the total supply and token balances for each address. The token is identified by a name, symbol, and an initial total supply of 0.
+The Zeol Token project is a simple token contract written in Solidity. It includes functionalities to mint and burn tokens, along with maintaining a mapping to track the total supply and token balances for each address. The token is identified by a name, symbol, and an initial total supply of 0.
 
 ## Getting Started
 
