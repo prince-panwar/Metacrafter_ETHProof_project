@@ -30,11 +30,10 @@ Clone or download the project files from the repository.
 
 If you encounter any issues, please ensure that you have the necessary dependencies and extensions installed correctly. Check for error messages during compilation and deployment to identify and troubleshoot any potential problems.
 
-## Authors
+## Author
+-Prince Panwar
 
-- [Your Name]
-- Contact: [Your Contact Information]
 
 ## License
 
-This project is licensed under the MIT License. Please refer to the LICENSE.md file for more details.
+This project is licensed under the MIT License.
