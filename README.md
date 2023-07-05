@@ -1,4 +1,4 @@
-# myToken
+# Zeol Token
 
 ## Overview
 
